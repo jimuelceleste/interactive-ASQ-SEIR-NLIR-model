@@ -3,5 +3,5 @@ ipywidgets==7.6.3
 matplotlib==3.3.4
 scipy==1.6.2
 voila
-jupyter==4.7.1
+jupyter
 notebook==6.3.0
