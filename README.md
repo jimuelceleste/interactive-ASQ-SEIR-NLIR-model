@@ -1,6 +1,6 @@
 # interactive-ASQ-SEIR-NLIR-model
 
-The ASQ-SEIR-NLIR model is a COVID-19 model described by a system of ODEs [1, 2, 3]. This tool allows users to interact with the model by adjusting its parameter values. Changes to the results will reflect real-time. 
+The Age-Stratified Quarantine Modified SEIR with Nonlinear Incidence Rates (ASQ-SEIR-NLIR) model is a COVID-19 model described by a system of ordinary differential equations [1, 2, 3]. This tool allows users to interact with the model by adjusting its parameter values. Changes to the results will reflect real-time. 
 
 Written with Jupyter Notebook: ```asq-seir-nlir.ipynb```
 
